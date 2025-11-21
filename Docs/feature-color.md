@@ -1,0 +1,1 @@
+les différentes types de couleurs seront ici.
