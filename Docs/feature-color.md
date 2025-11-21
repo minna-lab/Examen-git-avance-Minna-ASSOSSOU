@@ -1,1 +1,1 @@
-les différentes types de couleurs seront ici.
+Voici les différentes types de couleurs .
