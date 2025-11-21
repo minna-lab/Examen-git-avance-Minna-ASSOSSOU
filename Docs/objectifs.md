@@ -1,1 +1,1 @@
-Ce dépôt existe pour tester mais compétence sur git lors de ce examen.
+Je suis actuellement à l’étape 3 de l’exercice 3
